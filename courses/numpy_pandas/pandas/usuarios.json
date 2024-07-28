@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "nombre": "Juan Perez",
+      "email": "juan.perez@example.com",
+      "fecha_registro": "2023-01-15"
+    },
+    {
+      "id": 2,
+      "nombre": "Maria Gomez",
+      "email": "maria.gomez@example.com",
+      "fecha_registro": "2023-02-20"
+    },
+    {
+      "id": 3,
+      "nombre": "Carlos Sanchez",
+      "email": "carlos.sanchez@example.com",
+      "fecha_registro": "2023-03-30"
+    }
+  ]
+  
